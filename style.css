@@ -1,0 +1,38 @@
+/*  comment  */
+
+@import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap');
+
+body {
+	background-color: Indigo;
+}
+
+#container {
+	width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    /*  text color  */
+	color: LavenderBlush;
+	font-family: Hoefler Text, Baskerville;
+	font-size: 70px;
+	margin-left: 25px;
+    margin-right: 25px;
+    border: 14px dashed black;
+    padding: 10px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+p {
+	color: LightPink;
+	font-family: "Tagesschrift";
+	font-size: 20px;
+	margin-inline-start: 35px;
+	margin-inline-end: 35px;
+    text-align: center;
+}
+
+a {
+	color: Turquoise;
+}
